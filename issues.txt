@@ -1,0 +1,13 @@
+python3 server_v.4.py 3030
+/home/enok/Desktop/Server/server_v.4.py:5: DeprecationWarning: 'cgi' is deprecated and slated for removal in Python 3.13
+  import cgi
+
+
+Download all files
+View file snippet
+Share files via different platforms
+Icon based on phone view
+Landing Page what we do
+Hosting and use worldwide password based 
+
+

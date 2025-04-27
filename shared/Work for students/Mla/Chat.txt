@@ -1,0 +1,211 @@
+customer-5327956: Hello
+Writer: hello
+system: Hey there! Just wanted to let you know that we've reached out to the client about your message. Hang tight and wait for their reply. Thanks!
+customer-5327956: You have to make a new cover letter with the questions. Disregard the old cover letter. You have to follow the feedback to correct the draft. You change things according to the feedback. The new cover letter has to match with draft.
+Writer: okay
+Writer: Do you need me to edit the cover letter you wrote based on the instructors comments, or you need a completely new one?
+system: Hey there! Just wanted to let you know that we've reached out to the client about your message. Hang tight and wait for their reply. Thanks!
+customer-5327956: I don't know because the professor told me a new one because it has to be match with the draft. I believe it is going to be similar because it is the same draft with revision
+customer-5327956: I did answer the same questions for the previous draft. Now you have to answer the same questions too the only different some of the things might be updated because you make a little change.
+Writer: okay
+system: Hey there! Just wanted to let you know that we've reached out to the client about your message. Hang tight and wait for their reply. Thanks!
+Writer: Let then revise the document according to the instructor's comments.Is that okay with you?
+system: Hey there! Just wanted to let you know that we've reached out to the client about your message. Hang tight and wait for their reply. Thanks!
+customer-5327956: I believe that the draft should be revise first and then the cover letter.
+Writer: okay
+system: Hey there! Just wanted to let you know that we've reached out to the client about your message. Hang tight and wait for their reply. Thanks!
+Writer: Hello
+Writer: I highlighted the corrections i did in yellow
+system: Hey there! Just wanted to let you know that we've reached out to the client about your message. Hang tight and wait for their reply. Thanks!
+customer-5327956: I didn't recall that I send a name on the paper but I see a name on the cover letter
+customer-5327956: hello
+customer-5327956: Hello
+customer-5327956: You changed the first paragraph when you suppose to put a title
+customer-5327956: You changed the draft a lot when I don't understand the yellow highlight at all
+customer-5327956: You have to stop ignoring me
+customer-5327956: I need to submit my paper
+customer-5327956: you didn't do the revision well
+customer-5327956: This my last day to submit the assignment
+customer-5327956: I will get a zero for the assignment
+Writer: The was a name in the document you sent
+Writer: I did the changes in accordance to the comments by your instructor
+Writer: Hello.
+system: Hey there! Just wanted to let you know that we've reached out to the client about your message. Hang tight and wait for their reply. Thanks!
+customer-5327956: I was not suppose to use anyone's name in the paper because I remove it before I uploaded it I don't know how come you received it with a name
+Writer: Which name are tou referring to?
+customer-5327956: I confused with the cover letter and the draft because you change so much on the draft I don't understand it
+customer-5327956: the name after the sincerely
+Writer: The document you sent came with it.Yo can send your name so that I can change it
+Writer: The first section of the document was missing the critical explanation in the title and the shared experience.I also quoted pieces from the relevant piece as specified by your instructor.
+customer-5327956: For the draft you have to follow the professor feedback because she asks me to do exactly what she said on her feedback to do step by step you didn't do that
+Writer: I didnt change the sections you had provided.i only added the information where it was required.If you need it transfered to a new word document kindly let me know
+Writer: I did
+Writer: I you can follow through the document and compare it with the one you sent ,you will notice a difference
+customer-5327956: First she asked me to put a title. you change the
+Writer: I did introduce the title in the first paragraph, then expounded on the shared experience.
+customer-5327956: When you are reading a story book. It should have a title but I didn't put a title. I thought you was going to put  a title according to the feedback
+Writer: Let me add it
+customer-5327956: and then you change they to their and then you move to the next feedback but you changed the whole paragraph
+Writer: I did add the paragraph actually to create a clear picture of the shared experiences
+customer-5327956: she didn't ask me to that
+customer-5327956: you change what she asks me to change please you have to go and follow only her feedback she knows what she wants to see in this paper.
+Writer: the seconf comment
+Writer: *second
+customer-5327956: I will be appreciate it if you can go back and follow what she wrote on her feedback. Please don't add anything if she doesn't say to add it.
+customer-5327956: the second comment she wants me to change they to their
+Writer: okay
+system: Hey there! Just wanted to let you know that we've reached out to the client about your message. Hang tight and wait for their reply. Thanks!
+customer-5327956: I need to submit the assignment
+Writer: I have uploaded onother one
+system: Hey there! Just wanted to let you know that we've reached out to the client about your message. Hang tight and wait for their reply. Thanks!
+customer-5327956: You removed before I started this class but you supposed to add to this paragraph no to removed anything. I chose to listen ignorance excerpt this paragraph not suppose to be remove you should add to it. like she said transition on front of it and she said exactly what to add, please follow the feedbak
+customer-5327956: Please I don't have that much time. I chose to listen four pieces they are in two different paragraph you can't remove those paragraph
+Writer: Okay, let me check again
+system: Hey there! Just wanted to let you know that we've reached out to the client about your message. Hang tight and wait for their reply. Thanks!
+customer-5327956: I hope you did it right. I hope you revise the cover letter also  because you did a lot of changes. my professor is going to compare them and see if they match
+customer-5327956: the cover letter should be double space just like the previous one
+Writer: check the new upload
+customer-5327956: You didn't change anything
+Writer: Kindly upload this one, I have done everything I could and I believe thepaper is perfect
+Writer: Also the document you had uploaded had some grammar errors which I have corrected
+customer-5327956: I don't see the paragraph where it said Before I started this class it is a part of the draft you removed it.
+Writer: I haven't removed any part
+customer-5327956: YOU REMOVED THIS PART BUT YOU HAVE TO FOLLOW THE FEEDBACK.I chose to listen to Ignorance Excerpt on Nostalgia by Milan Kundera and Reflection by Exile Edward Said. I chose these voices because they were able to show dissimilar emotions from enthusiasm to agony, added profound and significance to the narrative context of exile. They were well revealed a comprehensive tone of message where I can adapt a similar style, emotional nuance to express the right empathetic, and a distinct identity that adds character to the context of exile that makes them a fit to my work. They walked me through a fully understanding about Exile, but it is something that I had never been experience before and where I must pay attention to all the details they lay on the pieces.
+customer-5327956: You put I joined this class because you removed before I start this class
+customer-5327956: You have to leave the paragraph where it says I chose to listen ignorance excerpt. you have to use a transition word at the beginning and a quote at the end
+customer-5327956: please I need to submit the assignment
+customer-5327956: I have less than one hour left for me to submit it
+customer-5327956: Why you didn't follow the feedback and original paper.
+customer-5327956: The cover letter is only one page
+customer-5327956: Please I need to submit my assignment
+customer-5327956: you have to sent it now or I will get a zero
+customer-5327956: I am going to have a zero because once is 12:00 I won't be able to submit it
+customer-5327956: I can't believe this is happening to me. you make me have a zero.
+customer-5327956: you are ignoring me like it was nothing. I gave the assignment
+customer-5327956: since Saturday
+Writer: but it is here.After reading the notes on Exile, I listened to the Ignorance Excerpt on Nostalgia by Milan Kundera and ‘Reflections by Exile by Edward Said. I chose these voices because they could show dissimilar emotions, from enthusiasm to agony, adding profound significance to the narrative context of Exile. They revealed a comprehensive tone of message that allowed me to adapt a similar style of emotional nuance to express the right empathy and a distinct identity that adds character to the context of Exile, making them a fit for my work. They walked me through a full understanding of Exile, but it is something I had never experienced before, and I must pay attention to all the details they lay on the pieces
+Writer: I only added an introductory sentence
+Writer: Kindly go through everything!.U did all the revision as required
+customer-5327956: You never did the revision because you didn't follow the instruction you kept removed my original paragraph and replaced them by your own paragraph
+Writer: It is only an introductory sentence. And i had to rewrite other sentences due to grammar issues( poor sentence structure).
+customer-5327956: you can't do that because everything in the draft goes by order
+Writer: to be fair anough what really changed in that paragraph?
+Writer: And if you can point out,which feedback didn't I Adress?
+customer-5327956: my paragraph start with before I start the class you started the paragraph I joined the class and so on.
+customer-5327956: I DON'T SEE THIS PARAGRAPH AT ALL I chose to listen to Ignorance Excerpt on Nostalgia by Milan Kundera and Reflection by Exile Edward Said. I chose these voices because they were able to show dissimilar emotions from enthusiasm to agony, added profound and significance to the narrative context of exile. They were well revealed a comprehensive tone of message where I can adapt a similar style, emotional nuance to express the right empathetic, and a distinct identity that adds character to the contextt of exile that makes them a fit to my work. They walked me through a fully understanding about Exile, but it is something that I had never been experience before and where I must pay attention to all the details they lay on the pieces.
+Writer: that paragraph is in the second sentence of the one I share to you.I still insist.kindly read through everything
+Writer: It is lcearly here After reading the notes on Exile, I listened to the Ignorance Excerpt on Nostalgia by Milan Kundera and ‘Reflections by Exile by Edward Said. I chose these voices because they could show dissimilar emotions, from enthusiasm to agony, adding profound significance to the narrative context of Exile. They revealed a comprehensive tone of message that allowed me to adapt a similar style of emotional nuance to express the right empathy and a distinct identity that adds character to the context of Exile, making them a fit for my work. They walked me through a full understanding of Exile, but it is something I had never experienced before, and I must pay attention to all the details they lay on the pieces
+Writer: your sentence said After reading the notes on Exile, I listened to the Ignorance Excerpt on Nostalgia by Milan Kundera and ‘Reflections by Exile by Edward Said. I chose these voices because they could show dissimilar emotions, from enthusiasm to agony, adding profound significance to the narrative context of Exile. They revealed a comprehensive tone of message that allowed me to adapt a similar style of emotional nuance to express the right empathy and a distinct identity that adds character to the context of Exile, making them a fit for my work. They walked me through a full understanding of Exile, but it is something I had never experienced before, and I must pay attention to all the details they lay on the pieces
+customer-5327956: you change it you
+Writer: and i wrote it as After reading the notes on Exile, I listened to the Ignorance Excerpt on Nostalgia by Milan Kundera and ‘Reflections by Exile by Edward Said. I chose these voices because they could show dissimilar emotions, from enthusiasm to agony, adding profound significance to the narrative context of Exile. They revealed a comprehensive tone of message that allowed me to adapt a similar style of emotional nuance to express the right empathy and a distinct identity that adds character to the context of Exile, making them a fit for my work. They walked me through a full understanding of Exile, but it is something I had never experienced before, and I must pay attention to all the details they lay on the pieces
+customer-5327956: THIS PARAGRAPH I chose to listen to Ignorance Excerpt on Nostalgia by Milan Kundera and Reflection by Exile Edward Said. I chose these voices because they were able to show dissimilar emotions from enthusiasm to agony, added profound and significance to the narrative context of exile. They were well revealed a comprehensive tone of message where I can adapt a similar style, emotional nuance to express the right empathetic, and a distinct identity that adds character to the contextt of exile that makes them a fit to my work. They walked me through a fully understanding about Exile, but it is something that I had never been experience before and where I must pay attention to all the details they lay on the pieces.
+customer-5327956: they are two different paragraph
+Writer: I have explained to you that the same paragraph is this one.After reading the notes on Exile, I listened to the Ignorance Excerpt on Nostalgia by Milan
+Kundera and ‘Reflections by Exile by Edward Said. I chose these voices because they could
+show dissimilar emotions, from enthusiasm to agony, adding profound significance to the
+narrative context of Exile. They revealed a comprehensive tone of message that allowed me to
+adapt a similar style of emotional nuance to express the right empathy and a distinct identity that
+adds character to the context of Exile, making them a fit for my work. They walked me through a
+full understanding of Exile, but it is something I had never experienced before, and I must pay
+attention to all the details they lay on the pieces.
+Writer: isn't it not the same???
+customer-5327956: because you change it you don't have there anymore you should go and check the original paper
+Writer: i really wish you could read through and compare them. You will see that the only difference is the first sentence in that paragraph.And reagardless the context does not change.
+customer-5327956: THIS IS ANOTHER ONE  PARAGRAPH I chose these voices because I found both told compelling history from moving one place to another country and felt like isolation. The history telling made them fit and relevant to my work. The way the word choice presented in these pieces that made them very easy to understand the concept.
+customer-5327956: I wrote the paper with the professor instructions I know what I have on my original papers
+Writer: the instructore gave this comment Just like before, here you should insert some quotes from this poems and provide some commentary on how those specific quotes helped you re-envision exile.
+Writer: I had to add a specific quote.You had not included it !
+customer-5327956: She asked me to do it in the feedback
+Writer: And i am telling you that is the sentence i wrote to adress it
+Writer: I added quoute if you can see in the sentence.This one
+Writer: Just like before, here you should insert some quotes from this poems and provide some commentary on how those specific quotes helped you re-envision exile.
+Writer: I chose these voices because I found both told the compelling history of moving from one place
+to another country and feeling isolated. In Kundera&#39;s work, &quot;exile is a constant ache, a longing
+for what was.&quot; The storytelling made them fit and relevant to my work. The way word choice
+was presented in these pieces made it easy to understand the concept.
+customer-5327956: they are two different paragraph but the paragraph you removed you was supposed to just add a transition word in the beginning and add a quote at the end but you removed the whole paragraph and confused with the other paragraph.
+Writer: I did not remove anything. kindly pay keen attention to the sentence before and after
+Writer: i only added this part to the next paragraph. From these pieces, for good sentence transitioning!
+Writer: i still insist again!.kindly read through!
+customer-5327956: THIS PARAGRAPH IS MISSING FROM YOUR DRAFT I chose to listen to Ignorance Excerpt on Nostalgia by Milan Kundera and Reflection by Exile Edward Said. I chose these voices because they were able to show dissimilar emotions from enthusiasm to agony, added profound and significance to the narrative context of exile. They were well revealed a comprehensive tone of message where I can adapt a similar style, emotional nuance to express the right empathetic, and a distinct identity that adds character to the contextt of exile that makes them a fit to my work. They walked me through a fully understanding about Exile, but it is something that I had never been experience before and where I must pay attention to all the details they lay on the pieces.
+customer-5327956: you have to go to my original one and check the feedback for this one but you are only have to add a transition word at the beginning and add quote at the end.
+Writer: And i have the paragraph I wrote. The only difference is this part after reading the notes on Exile. The rest is the exact information you wrote!!!
+Writer: and I have told you rewriting that part was to help in having a good sentence transition!
+customer-5327956: THESE ARE TOGETHER As I continue developing my exile narrative, I choose to listen the voices of The exile Speaks by Virgil Suarez and Isla by Virgil Suarez.
+I chose these voices because I found both told compelling history from moving one place to another country and felt like isolation. The history telling made them fit and relevant to my work. The way the word choice presented in these pieces that made them very easy to understand the concept.
+customer-5327956: this one you only have to put a quote at the end
+Writer: As I continue developing my exile narrative, I listen to the voices of The Exile Speaks by Virgil
+Suarez and Isla by Virgil Suarez.
+I chose these voices because I found both told the compelling history of moving from one place
+to another country and feeling isolated. In Kundera&#39;s work, &quot;exile is a constant ache, a longing
+for what was.&quot; The storytelling made them fit and relevant to my work. The way word choice
+was presented in these pieces made it easy to understand the concept.
+Writer: here it is!
+customer-5327956: yes, you have this one but you removed the other one because you did confused
+Writer: Which one exactly did I remove? I have just copied it from the document I edited for you.
+customer-5327956: I chose to listen to Ignorance Excerpt on Nostalgia by Milan Kundera and Reflection by Exile Edward Said. I chose these voices because they were able to show dissimilar emotions from enthusiasm to agony, added profound and significance to the narrative context of exile. They were well revealed a comprehensive tone of message where I can adapt a similar style, emotional nuance to express the right empathetic, and a distinct identity that adds character to the contextt of exile that makes them a fit to my work. They walked me through a fully understanding about Exile, but it is something that I had never been experience before and where I must pay attention to all the details they lay on the pieces
+Writer: I have explained to you this on and on!! The instructor required a transition state! Don't you see it?
+Writer: I Don't know how else to explain to you.I have tried as much as I could
+customer-5327956: You have to go to the original one
+Writer: You have kept repeating the same same this and I have explained to you that i didn't change the content of It,I just added a transitioning!
+Writer: It you who should go through both and compare to see the transition done!
+Writer: *It is you
+Writer: Honestly that has been the very simplest way I have tried to explain it to you
+Writer: I still dont Understand why you dont get it.
+customer-5327956: She told which transition to put in there
+customer-5327956: Your copy is confused but my original copy is  clear no confusion
+Writer: here was the instructor's comment!!!
+Writer: Here’s another moment where a transitional phrase would be it feel more like a story. You could for example write something like “After reading “Notes on Exile” I chose to listen to an excerpt from Milan Kundera’s novel Ignorance and “Reflections on Exile” by Edward Said.
+Writer: and here is what I added!After reading the notes on Exile, I listened to the Ignorance Excerpt on Nostalgia by Milan Kundera and ‘Reflections by Exile by Edward Said
+customer-5327956: THIS IS WHAT HAVE TO PUT INTHERE \Here’s another moment where a transitional phrase would be it feel more like a story. You could for example write something like “After reading “Notes on Exile” I chose to listen to an excerpt from Milan Kundera’s novel Ignorance and “Reflections on Exile” by Edward Said
+Writer: dont you see a tranition there?
+Writer: isnt this not as per you isntructor;s comment?After reading the notes on Exile, I listened to the Ignorance Excerpt on Nostalgia by Milan Kundera and ‘Reflections by Exile by Edward Said
+Writer: I don't know now,Like I have said i have tried everything I could.If you could please do me a favour.Kindly reassign the order.I have explained and exausted to you everything.You can clearly see the canges made but you keep insisting I havent done anything.
+customer-5327956: Okay I see it
+customer-5327956: you change before I started to I joined
+customer-5327956: you can't change the transition word
+customer-5327956: My assignment is past due the semester is end I can't submit my work anymore. now I have to wait till morning to contact the professor.
+customer-5327956: hello
+Writer: I just wrote it as stated by you instructor
+Writer: You should Have uploaded it before deadline.Everything was just oky
+Writer: and wait what do you mean you cant change the transition word.THe instructor gave a suggestion of how to write it!
+customer-5327956: Before  I started  paragraph you removed the transition  to put I joined
+Writer: No ,i didnt.Did you check the it properly.
+customer-5327956: I wouldn't uploaded because you did not complete the work
+Writer: Please  i have been patient enought
+Writer: what havent I completed,You are literally frustrating me
+customer-5327956: You to check  it
+Writer: Then kindly cancel the order
+Writer: Clearly it seems you are looking for a means to cancel it!
+customer-5327956: You are frustrated  me you made me had a zero for my work
+Writer: We have gone through it together, and I have explained to you every bit till you no longer have questions.Now what you do is keep asking the same questions
+Writer: please cancel it! thank you
+customer-5327956: You change  the second paragraph of the draft you put you joined  by removing the transition
+Writer: i din not remove the transition,I added it!!
+Writer: The instructor wanted it to be added
+Writer: Do you know the meaning of transition words??
+Writer: And please.kindly cancel,You will be refunded!
+customer-5327956: The second paragraph of the draft you did
+customer-5327956: You made me have a zero  for my work
+customer-5327956: I still need my work to be complete
+Writer: Kindly cancel it/or reassign the order.Your work is complete,You know It but you keep insisting it is not
+customer-5327956: Why you didn't tell me that before my deadline
+Writer: we have gone through it together.I have clearly answered you questions.
+Writer: And after answering them you still say it is not complete ,yet it is
+customer-5327956: Now you sost me a zero which I 
+I might fail the class
+ Do you think it is fair
+Writer: You havent uploaded the taskso you can still reasign it
+customer-5327956: I don have anytime left
+Writer: You also  not being fair to me.i have taken my time going through it,did revision as you requested,gave you explanations where necessary and you still insist it in not  complete
+Writer: There is nothing I can still do honestly,just look for another writer.
+customer-5327956: You are not been fair to me you cost  me a lot
+customer-5327956: You made me Waist my time and cost a zero
+Writer: Please assign someone else, you will get a refund. Also I believe I followed all instructions and edited the document correctly. Check again!!
+system: Hey there! Just wanted to let you know that we've reached out to the client about your message. Hang tight and wait for their reply. Thanks!
+Writer: I am sorry for the incovenience
+customer-5327956: You didn't follow the instructions
+Writer: I did!!!But hey sorry it looks like I didn't meet your standards. you could have at least uploaded it rather than nothing
+customer-5327956: The second paragraph I joined this class with limited  when you change the beginning of my sentence and you told me you follow instructions
+Writer: Okay, I'm sorry. There's nothing else I can do I think I did everything I could. Go ahead and cancel the order
+system: Hey there! Just wanted to let you know that we've reached out to the client about your message. Hang tight and wait for their reply. Thanks!
